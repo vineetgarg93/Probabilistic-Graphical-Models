@@ -1,3 +1,3 @@
 # Probabilistic-Graphical-Models
-# Assignment Submissions
-# Advacned Probabilistic Graphical Models Courses ECEN689 TAMU Spring'18
+
+Assignment Submissions for Advacned Probabilistic Graphical Models Course ECEN689 TAMU Spring'18
